@@ -12,7 +12,7 @@ This project is a web application that allows restaurant owners to manage their 
 
 2. Navigate to the project directory:
     ```bash
-    cd restaurant-menu
+    cd restaurant_menu
     ```
 
 3. Install the required dependencies:
