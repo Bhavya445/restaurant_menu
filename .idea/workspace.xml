@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ca104dd-e58c-4538-a1ac-56f1db102c67" name="Changes" comment="creating qr to access webapp">
+      <change afterPath="$PROJECT_DIR$/../BACKEND/node_modules/figlet/.idea/figlet.js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject11/cards.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject12/.idea/pythonProject12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject15/.idea/pythonProject15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject16/database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject16/icons/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject16/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject16/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/templates/menu_item_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_menu/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2iSTkRmLZQ6evbqpSdg2uPyQ5iU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.qr.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonProject18\restaurant_menu" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca104dd-e58c-4538-a1ac-56f1db102c67" name="Changes" comment="" />
+      <created>1719483120554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719483120554</updated>
+    </task>
+    <task id="LOCAL-00001" summary="creating qr to access webapp">
+      <option name="closed" value="true" />
+      <created>1719485397857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719485397857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creating qr to access webapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating qr to access webapp" />
+  </component>
+</project>
